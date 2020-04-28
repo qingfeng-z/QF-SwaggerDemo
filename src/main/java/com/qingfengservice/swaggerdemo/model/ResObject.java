@@ -1,5 +1,6 @@
 package com.qingfengservice.swaggerdemo.model;
 
+
 import lombok.Data;
 
 @Data
